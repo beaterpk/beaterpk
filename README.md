@@ -6,9 +6,14 @@
 - 🏠 Store: https://beater.pk
 - ⌚ Casio: https://beater.pk/collections/casio
 - 💪 G-Shock: https://beater.pk/collections/casio-g-shock
+- ⚙️ Edifice: https://beater.pk/collections/casio-edifice
+- 🏔️ Pro Trek: https://beater.pk/collections/casio-pro-trek
 - 🕰️ Citizen: https://beater.pk/collections/citizen
 - 🎩 Beverly Hills Polo Club: https://beater.pk/collections/beverly-hills-polo-club
 - 🎖️ Swiss Military Hanowa: https://beater.pk/collections/swiss-military-hanowa
+- 👕 Lee Cooper: https://beater.pk/collections/lee-cooper
+- 🌍 Roamer: https://beater.pk/collections/roamer
+- 🏃 Slazenger: https://beater.pk/collections/slazenger
 - 🏷️ All brands: https://beater.pk/pages/shop-by-brand
 
 ## Buying guides
